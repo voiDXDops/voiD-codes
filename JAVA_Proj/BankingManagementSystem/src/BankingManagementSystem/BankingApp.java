@@ -82,7 +82,7 @@ public class BankingApp {
                                     case 5:
                                         break;
                                     default:
-                                        System.out.println("Enter Valid Choice!");
+                                        System.out.println("Enter a Valid Choice!");
                                         break;
                                 }
                             }
@@ -96,7 +96,7 @@ public class BankingApp {
                         System.out.println("Exiting System!");
                         return;
                     default:
-                        System.out.println("Enter Valid Choice");
+                        System.out.println("Enter a Valid Choice");
                         break;
                 }
             }
